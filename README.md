@@ -1,3 +1,8 @@
 hola desde el README
 
-saludoa!
+saludos!
+
+
+--------------
+- Juan Jose -
+---------------
